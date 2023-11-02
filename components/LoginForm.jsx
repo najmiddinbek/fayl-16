@@ -79,7 +79,7 @@ export default function LoginForm() {
             LOGIN BILAN KIRISH
           </h1>
           <p className="my-3 text-[15px] text-[#293273] font-[600]">
-            Maktab ma'muryati tomonidan berilgan elektron pochta hamda login parolni kiriting
+            Maktab mamuryati tomonidan berilgan elektron pochta hamda login parolni kiriting
           </p>
           <label className="my-3" htmlFor="">
             Elektron pochta
