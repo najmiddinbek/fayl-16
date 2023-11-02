@@ -8,8 +8,7 @@ export default function Navbar() {
             <div className="max-w-[1400px]  mx-auto">
                 <nav className="flex justify-between items-center">
                     <Link href={"/pupilsAdd"}>
-                        <Image src={Logotip} width={100} height={100} alt="
-                    Image" />
+                        <Image src={Logotip} width={100} height={100} alt="Image" />
                     </Link>
                     <Link className="text-white" href={"/pupilsAdd"}>
                         O`quvchi qo`shish
