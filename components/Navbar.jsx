@@ -13,16 +13,7 @@ export default function Navbar() {
                     <Link className="text-white" href={"/pupilsAdd"}>
                         O`quvchi qo`shish
                     </Link>
-                    <Link className="text-white" href={"/register"}>
-                        Ro`yxatdan o`tish
-                    </Link>
-                    <Link className="text-white" href={"/"}>
-                        Login
-                    </Link>
                 </nav>
-                {/* {topics.map((topic, index) => (
-                <h1>{topic.name}</h1>
-            ))} */}
             </div>
         </div>
     );
